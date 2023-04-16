@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">435e9418-afd8-480c-994a-281755d26503</dc:identifier>
+        <dc:title>Python para Iniciantes (modo fácil)</dc:title>
+        <dc:creator opf:file-as="Abreu, Elizeu Barbosa" opf:role="aut">Elizeu Barbosa Abreu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>por</dc:language>
+        <dc:subject>python</dc:subject>
+        <dc:subject>easy python</dc:subject>
+        <dc:subject>python para iniciante</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Elizeu Barbosa Abreu&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-04-14T00:52:42+00:00"/>
+        <meta name="calibre:title_sort" content="Python para Iniciantes (modo fácil)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="cover.jpg"/>
+    </guide>
+</package>
