@@ -1,5 +1,5 @@
-# Python pra Iniciante (modo fácil)
-![Logotipo do Python](images/logo_python.png)
+# Python para Iniciante (modo fácil)
+![Logotipo do Python](images/capa.png)
 
 
 ## Prefácio
@@ -31,20 +31,35 @@ Elizeu Barbosa Abreu
 
 ## Índice
 
-    1. Introdução à programação com Python
-    2. Instalação e configuração do ambiente Python
-    3. Tipos de dados em Python (inteiros, flutuantes, strings, booleanos)
-    4. Variáveis e operadores aritméticos em Python
-    5. Estruturas de controle de fluxo (if, else, elif, loops)
-    6. Coleções de dados em Python (listas, tuplas, dicionários, conjuntos)
-    7. Funções em Python
-    8. Módulos e bibliotecas em Python (ex: math, datetime, os)
-    9. Trabalhando com arquivos em Python
-    10. Manipulação de strings em Python
-    11. Programação orientada a objetos em Python (classes, objetos, herança)
-    12. Manipulação de exceções em Python
-    13. Aplicações de programação em Python (ex: automação de tarefas, análise de dados, desenvolvimento web)
-    14. Ferramentas e recursos adicionais para aprender Python (ex: documentação, comunidades de desenvolvedores, tutoriais online)
+[1. Introdução à programação com Python](#1-introdução-à-programação-com-python)
+
+[2. Instalação e configuração do ambiente Python](#2-instalação-e-configuração-do-ambiente-python)
+
+[3. Tipos de dados em Python (inteiros, flutuantes, strings, booleanos)](#3-tipos-de-dados-em-python-inteiros-flutuantes-strings-booleanos)
+
+[4. Variáveis e operadores aritméticos em Python](#4-variáveis-e-operadores-aritméticos-em-python)
+
+[5. Estruturas de controle de fluxo (if, else, elif, loops)](#5-estruturas-de-controle-de-fluxo-em-python)
+
+[6. Coleções de dados em Python (listas, tuplas, dicionários, conjuntos)](#6-coleções-de-dados-em-python)
+
+[7. Funções em Python](#7-funções-em-python)
+
+[8. Módulos e bibliotecas em Python (ex: math, datetime, os)](#8-módulos-e-bibliotecas-em-python-ex-math-datetime-os)
+
+[9. Trabalhando com arquivos em Python](#9-trabalhando-com-arquivos-em-python)
+
+[10. Manipulação de strings em Python](#10-manipulação-de-strings-em-python)
+
+[11. Programação orientada a objetos em Python (classes, objetos, herança)](#11-programação-orientada-a-objetos-em-python-classes-objetos-herança)
+
+[12. Manipulação de exceções em Python](#12-manipulação-de-exceções-em-python)
+
+[13. Aplicações de programação em Python (ex: automação de tarefas, análise de dados, desenvolvimento web)](#13-aplicações-de-programação-em-python-ex-automação-de-tarefas-análise-de-dados-desenvolvimento-web)
+
+[14. Ferramentas e recursos adicionais para aprender Python (ex: documentação, comunidades de desenvolvedores, tutoriais online)](#14-ferramentas-e-recursos-adicionais-para-aprender-python-ex-documentação-comunidades-de-desenvolvedores-tutoriais-online)
+
+[Conclusão](#conclusão)
 
 
 
@@ -602,3 +617,5 @@ Desejo-lhe sucesso em sua jornada como programador em Python!
 Atenciosamente,
 
 Elizeu Barbosa Abreu
+
+[Ir para início](#)
