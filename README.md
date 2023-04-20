@@ -9,7 +9,7 @@ Todo o material é gratuito, criei uma versão em PDF e também algumas versões
 ## Acesso aos arquivos:
 
 - Versão online: LEIA [AQUI](Python%20para%20Iniciantes%20(modo%20f%C3%A1cil).md) SEM PRECISAR FAZER DOWNLOAD!
-- Versões ebook. Baixer para ler no Kindle, Kobo, Mobipocket Reader e outros leitores de livros digital:
+- Versões ebook para ler no Kindle, Kobo, Mobipocket Reader e outros leitores de livros digital:
   - [AZW3](https://github.com/elizeubarbosaabreu/Livro-Python-para-Iniciantes-modo-facil/raw/main/ebooks/Python%20para%20Iniciantes%20(modo%20facil)%20-%20Elizeu%20Barbosa%20Abreu.azw3)
   - [EPUB](https://github.com/elizeubarbosaabreu/Livro-Python-para-Iniciantes-modo-facil/raw/main/ebooks/Python%20para%20Iniciantes%20(modo%20facil)%20-%20Elizeu%20Barbosa%20Abreu.epub)
   - [MOBI](https://github.com/elizeubarbosaabreu/Livro-Python-para-Iniciantes-modo-facil/raw/main/ebooks/Python%20para%20Iniciantes%20(modo%20facil)%20-%20Elizeu%20Barbosa%20Abreu.mobi)
