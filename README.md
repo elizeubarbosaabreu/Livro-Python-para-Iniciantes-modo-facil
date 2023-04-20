@@ -9,7 +9,13 @@ Todo o material é gratuito, criei uma versão em PDF e também algumas versões
 ## Acesso aos arquivos:
 
 - Versão online: [Leia o livro aqui](Python%20para%20Iniciantes%20(modo%20f%C3%A1cil).md)
-- Versões ebook(pdf, mobi, epub, azw3, txtz): [Baixe aqui](ebooks/)
+- Versões ebook:
+  - [AZW3](https://github.com/elizeubarbosaabreu/Livro-Python-para-Iniciantes-modo-facil/raw/main/ebooks/Python%20para%20Iniciantes%20(modo%20facil)%20-%20Elizeu%20Barbosa%20Abreu.azw3)
+  - [EPUB](https://github.com/elizeubarbosaabreu/Livro-Python-para-Iniciantes-modo-facil/raw/main/ebooks/Python%20para%20Iniciantes%20(modo%20facil)%20-%20Elizeu%20Barbosa%20Abreu.epub)
+  - [MOBI](https://github.com/elizeubarbosaabreu/Livro-Python-para-Iniciantes-modo-facil/raw/main/ebooks/Python%20para%20Iniciantes%20(modo%20facil)%20-%20Elizeu%20Barbosa%20Abreu.mobi)
+  - [PDF](https://github.com/elizeubarbosaabreu/Livro-Python-para-Iniciantes-modo-facil/raw/main/ebooks/Python%20para%20Iniciantes%20(modo%20facil)%20-%20Elizeu%20Barbosa%20Abreu.pdf)
+  - [TXTZ](https://github.com/elizeubarbosaabreu/Livro-Python-para-Iniciantes-modo-facil/raw/main/ebooks/Python%20para%20Iniciantes%20(modo%20facil)%20-%20Elizeu%20Barbosa%20Abreu.txtz)
+  - Todas as versões: [Baixe aqui](ebooks/)
 
 ## Dica:
 
